@@ -133,3 +133,6 @@ function measureFromSensor(level){
   //applyInputToValve(input);
   //goalReached = (input === 0) ? true : false;
 //}
+
+
+console.log("Teste");
